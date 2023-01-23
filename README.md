@@ -27,3 +27,6 @@
 ## Video
 
 A video demonstrating the assignment work and explaining the logic for code snippets is provided in the link below
+
+https://user-images.githubusercontent.com/123289532/214115179-78b43723-37a1-48d4-a01f-d3ca6ff3b001.mp4
+
