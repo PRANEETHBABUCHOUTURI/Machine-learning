@@ -5,7 +5,7 @@
 
 
 ## ML Assignment 1
-- [ Student info ]()
+- [ Student info ](https://github.com/PRANEETHBABUCHOUTURI/Machine-learning/blob/main)
 - [ Short Description]()
 - [Video]()
 
