@@ -25,3 +25,5 @@
 ---------
 
 ## Video
+
+A video demonstrating the assignment work and explaining the logic for code snippets is provided in the link below
