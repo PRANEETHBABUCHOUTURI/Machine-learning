@@ -7,7 +7,7 @@
 ## ML Assignment 1
 - [ Student info ]()
 - [ Short Description]()
-- [Video] ()
+- [Video]()
 
 ----------
 
