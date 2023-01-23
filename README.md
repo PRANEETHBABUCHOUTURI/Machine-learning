@@ -6,8 +6,8 @@
 
 ## ML Assignment 1
 - [ Student info ](https://github.com/PRANEETHBABUCHOUTURI/Machine-learning/blob/main/README.md#student-info)
-- [ Short Description]()
-- [Video]()
+- [ Short Description](https://github.com/PRANEETHBABUCHOUTURI/Machine-learning/blob/main/README.md#short-description)
+- [ Video]()
 
 ----------
 
