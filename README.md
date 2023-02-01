@@ -1,7 +1,7 @@
 # Machine-learning
 
 - [ML Assignment 1 ](https://github.com/PRANEETHBABUCHOUTURI/Machine-learning/blob/main/README.md#ml-assignment-1)
-
+- [ML Assignment 2 ]()
 
 
 ## ML Assignment 1
@@ -30,3 +30,8 @@ A video demonstrating the assignment work and explaining the logic for code snip
 
 https://user-images.githubusercontent.com/123289532/214115179-78b43723-37a1-48d4-a01f-d3ca6ff3b001.mp4
 
+---------
+
+## ML Assignment 2
+-[  Student info ]()
+-[ Short Description]
