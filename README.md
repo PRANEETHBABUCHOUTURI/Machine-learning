@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/123289532/214115179-78b43723-37a1-48d4
 
 ## ML Assignment 2
 
--[  Student info ]()
+-[  Student info ](https://github.com/PRANEETHBABUCHOUTURI/Machine-learning/blob/main/README.md#student-info-1)
 -[ Short Description]()
 -[ video]()
 
