@@ -34,9 +34,9 @@ https://user-images.githubusercontent.com/123289532/214115179-78b43723-37a1-48d4
 
 ## ML Assignment 2
 
--[  Student info ](https://github.com/PRANEETHBABUCHOUTURI/Machine-learning/blob/main/README.md#student-info-1)
--[ Short Description](https://github.com/PRANEETHBABUCHOUTURI/Machine-learning/blob/main/README.md#short-description-1)
--[ video]()
+- [  Student info ](https://github.com/PRANEETHBABUCHOUTURI/Machine-learning/blob/main/README.md#student-info-1)
+- [ Short Description](https://github.com/PRANEETHBABUCHOUTURI/Machine-learning/blob/main/README.md#short-description-1)
+- [ video](https://github.com/PRANEETHBABUCHOUTURI/Machine-learning#video-1)
 
 --------------
 
@@ -56,6 +56,12 @@ https://user-images.githubusercontent.com/123289532/214115179-78b43723-37a1-48d4
 ## Video
 
 A video demonstrating the assignment work and explaining the logic for code snippets is provided in the link below
+
+https://user-images.githubusercontent.com/123289532/218657621-9ac069a4-66db-49d4-a95c-446b62d41df9.mp4
+
+---------------
+
+
 
 
 
