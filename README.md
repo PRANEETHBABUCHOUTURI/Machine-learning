@@ -36,3 +36,30 @@ https://user-images.githubusercontent.com/123289532/214115179-78b43723-37a1-48d4
 -[  Student info ]()
 -[ Short Description]()
 -[ video]()
+
+--------------
+
+## Student Info
+
+- Student Name : Praneeth Babu Chouturi
+- Student ID : 700742707
+- University of central missouri
+
+--------------
+
+## Short Description
+
+
+--------------
+
+## Video
+
+A video demonstrating the assignment work and explaining the logic for code snippets is provided in the link below
+
+
+
+
+
+
+
+
