@@ -34,4 +34,5 @@ https://user-images.githubusercontent.com/123289532/214115179-78b43723-37a1-48d4
 
 ## ML Assignment 2
 -[  Student info ]()
--[ Short Description]
+-[ Short Description]()
+-[ video]()
