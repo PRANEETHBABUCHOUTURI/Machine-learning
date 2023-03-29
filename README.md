@@ -67,7 +67,7 @@ https://user-images.githubusercontent.com/123289532/218657621-9ac069a4-66db-49d4
 
 - [ Student info ]()
 - [ Short Description ]()
-- [ Video ]()
+- [ Video ](https://github.com/PRANEETHBABUCHOUTURI/Machine-learning/blob/main/README.md#video-2)
 
 ----------------
 
