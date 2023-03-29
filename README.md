@@ -2,6 +2,7 @@
 
 - [ML Assignment 1 ](https://github.com/PRANEETHBABUCHOUTURI/Machine-learning/blob/main/README.md#ml-assignment-1)
 - [ML Assignment 2 ](https://github.com/PRANEETHBABUCHOUTURI/Machine-learning/blob/main/README.md#ml-assignment-2)
+- [ML Assignment 3 ]()
 
 
 ## ML Assignment 1
@@ -60,6 +61,37 @@ A video demonstrating the assignment work and explaining the logic for code snip
 https://user-images.githubusercontent.com/123289532/218657621-9ac069a4-66db-49d4-a95c-446b62d41df9.mp4
 
 ---------------
+
+
+## ML Assignment 3
+
+- [ Student info ]()
+- [ Short Description ]()
+- [ Video ]()
+
+----------------
+
+## Student Info
+
+- Student Name : Praneeth Babu Chouturi
+- Student ID : 700742707
+- University of central missouri
+
+---------------
+
+## Short Description
+
+
+---------------
+
+## Video
+
+A video demonstrating the assignment work and explaining the logic for code snippets is provided in the link below
+
+
+----------------
+
+
 
 
 
