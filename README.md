@@ -123,7 +123,7 @@ A video demonstrating the assignment work and explaining the logic for code snip
 
 ## ML Assignment 5
 
-- [ Student info ]()
+- [ Student info ](https://github.com/PRANEETHBABUCHOUTURI/Machine-learning/blob/main/README.md#student-info-4)
 - [ Short Description ](https://github.com/PRANEETHBABUCHOUTURI/Machine-learning/blob/main/README.md#short-description-4)
 - [ Video ](https://github.com/PRANEETHBABUCHOUTURI/Machine-learning/blob/main/README.md#video-4)
 
