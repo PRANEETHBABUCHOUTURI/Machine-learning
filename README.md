@@ -125,7 +125,7 @@ A video demonstrating the assignment work and explaining the logic for code snip
 
 - [ Student info ]()
 - [ Short Description ]()
-- [ Video ]()
+- [ Video ](https://github.com/PRANEETHBABUCHOUTURI/Machine-learning/blob/main/README.md#video-4)
 
 ----------------
 
