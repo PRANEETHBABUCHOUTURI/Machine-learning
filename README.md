@@ -4,6 +4,7 @@
 - [ML Assignment 2 ](https://github.com/PRANEETHBABUCHOUTURI/Machine-learning/blob/main/README.md#ml-assignment-2)
 - [ML Assignment 3 ](https://github.com/PRANEETHBABUCHOUTURI/Machine-learning/blob/main/README.md#ml-assignment-3)
 - [ML Assignment 4 ](https://github.com/PRANEETHBABUCHOUTURI/Machine-learning/blob/main/README.md#ml-assignment-4)
+- [ML Assignment 5]()
 
 
 ## ML Assignment 1
@@ -97,6 +98,34 @@ A video demonstrating the assignment work and explaining the logic for code snip
 - [ Student info ](https://github.com/PRANEETHBABUCHOUTURI/Machine-learning/blob/main/README.md#student-info-3)
 - [ Short Description ](https://github.com/PRANEETHBABUCHOUTURI/Machine-learning/blob/main/README.md#short-description-3)
 - [ Video ](https://github.com/PRANEETHBABUCHOUTURI/Machine-learning/blob/main/README.md#video-3)
+
+----------------
+
+## Student Info
+
+- Student Name : Praneeth Babu Chouturi
+- Student ID : 700742707
+- University of central missouri
+
+---------------
+
+## Short Description
+
+
+---------------
+
+## Video
+
+A video demonstrating the assignment work and explaining the logic for code snippets is provided in the link below
+
+
+----------------
+
+## ML Assignment 5
+
+- [ Student info ]()
+- [ Short Description ]()
+- [ Video ]()
 
 ----------------
 
