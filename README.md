@@ -150,11 +150,10 @@ A video demonstrating the assignment work and explaining the logic for code snip
 ----------------
 
 
-Final document 
+## Final document PPT 
 
 
-
-
+[Final_PPT.pptx](https://github.com/PRANEETHBABUCHOUTURI/Machine-learning/files/11329199/Final_PPT.pptx)
 
 
 
